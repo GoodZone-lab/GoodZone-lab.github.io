@@ -1,0 +1,5 @@
+# Gomoku
+
+# Privacy policy
+
+Text
