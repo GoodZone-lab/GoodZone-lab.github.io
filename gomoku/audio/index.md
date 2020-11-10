@@ -6,7 +6,7 @@ kotsua - Cha Cha China
 
 [https://soundcloud.com/atsuko-arahata/cha-cha-china](https://soundcloud.com/atsuko-arahata/cha-cha-china)
 
-## Sound effects
+## Sound FX
 
 [https://zvukipro.com](https://zvukipro.com)
 
