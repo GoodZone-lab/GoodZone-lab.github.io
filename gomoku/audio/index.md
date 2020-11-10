@@ -2,14 +2,12 @@
 
 ## Music
 
-Cha Cha China - kotsua
+kotsua - Cha Cha China
 
-https://soundcloud.com/atsuko-arahata/cha-cha-china
+[https://soundcloud.com/atsuko-arahata/cha-cha-china](https://soundcloud.com/atsuko-arahata/cha-cha-china)
 
-## Sound Fx
+## Sound effects
 
-(https://zvukipro.com/audio/650-zvuki-game-over.html)
+[https://zvukipro.com](https://zvukipro.com)
 
-(https://zvukipro.com/user-interface/1070-jelektronnye-zvuki-s-jeffektom-schelchka-click.html)
-
-(https://zvukipro.com/user-interface/1529-zvuki-dlja-podpiski-na-kanal.html)
+[https://freesound.org](https://freesound.org)
