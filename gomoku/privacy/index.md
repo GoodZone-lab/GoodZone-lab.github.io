@@ -60,7 +60,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-11-08
+This policy is effective as of 2020-11-01
 
 ## Contact Us
 
