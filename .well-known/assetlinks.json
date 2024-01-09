@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.goodzone.gomoku",
+    "sha256_cert_fingerprints": [
+      "E4:41:2D:99:A9:F1:3C:F7:A1:B2:06:1A:08:67:F7:1C:5D:0D:DE:C6:BF:78:7A:BD:BD:A0:AC:E9:57:5D:22:E4",
+      "17:48:79:72:7E:F6:14:AC:76:EF:E7:56:C3:E2:41:8D:7E:2D:AC:77:0F:AD:D7:5B:FC:4B:11:52:8A:CF:79:54"
+    ]
+  }
+}]
