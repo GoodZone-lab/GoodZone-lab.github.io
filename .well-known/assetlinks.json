@@ -1,6 +1,13 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
+    "namespace": "web",
+    "site": "https://play.google.com/store/apps/details?id=com.goodzone.gomoku"
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
     "namespace": "android_app",
     "package_name": "com.goodzone.gomoku",
     "sha256_cert_fingerprints": [
